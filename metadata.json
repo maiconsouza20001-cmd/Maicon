@@ -1,0 +1,5 @@
+{
+  "name": "AI FitCoach",
+  "description": "An intelligent personal trainer app that analyzes behavior, predicts progress, and automatically adjusts workouts.",
+  "requestFramePermissions": []
+}
